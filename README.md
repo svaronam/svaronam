@@ -16,6 +16,7 @@ En mi tiempo libre monto y mantengo un pequeño **homelab con dos Raspberry Pi**
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| [**JobRadar**](https://github.com/svaronam/Jobradar) | Radar de ofertas de LinkedIn con baremo editable y CV adaptado a cada oferta con IA, sin inventar nada | Python, Gemini, ReportLab, Kotlin |
 | [**OpoRadar**](https://github.com/svaronam/oporadar) | Radar diario de oposiciones de informática en el BOE y boletines autonómicos, con baremo configurable | Python, SQLite, Kotlin |
 | [**OpoTest**](https://github.com/svaronam/opotest) | Tests con repaso espaciado y preguntas generadas y revisadas con IA | Python, Starlette, Gemini, OCR |
 | [**Wallabot**](https://github.com/svaronam/wallabot) | Rastreador de Wallapop con avisos en tiempo real y análisis de mercado | Python async, Starlette, Kotlin |
@@ -54,6 +55,7 @@ In my spare time I build and run a small **homelab with two Raspberry Pis**, hos
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**JobRadar**](https://github.com/svaronam/Jobradar) | LinkedIn job radar with editable scoring and an AI-tailored CV for every offer that never makes anything up | Python, Gemini, ReportLab, Kotlin |
 | [**OpoRadar**](https://github.com/svaronam/oporadar) | Daily radar for public-sector IT job openings in Spain's official gazettes, with a configurable scoring system | Python, SQLite, Kotlin |
 | [**OpoTest**](https://github.com/svaronam/opotest) | Quiz platform with spaced repetition and AI-generated, AI-reviewed questions | Python, Starlette, Gemini, OCR |
 | [**Wallabot**](https://github.com/svaronam/wallabot) | Wallapop tracker with real-time alerts and market analysis | Python async, Starlette, Kotlin |

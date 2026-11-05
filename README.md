@@ -16,11 +16,15 @@ En mi tiempo libre monto y mantengo un pequeño **homelab con dos Raspberry Pi**
 
 ### Tecnologías
 
-**Backend:** Java, Spring Boot, Spring Batch, Hibernate/JPA, Python · **Bases de datos:** Oracle, PostgreSQL, MySQL, IBM DB2, SQLite · **DevOps:** Docker, Jenkins, Git, Linux, GitHub Actions · **Arquitectura:** hexagonal, DDD, microservicios · **Móvil:** Android (Kotlin, Java)
+- **Backend:** Java, Spring Boot, Spring Batch, Hibernate/JPA, Python
+- **Bases de datos:** Oracle, PostgreSQL, MySQL, IBM DB2, SQLite
+- **DevOps:** Docker, Jenkins, Git, Linux, GitHub Actions
+- **Arquitectura:** hexagonal, DDD, microservicios
+- **Móvil:** Android (Kotlin, Java)
+- **IA:** desarrollo asistido por IA (Claude Code)
 
-**IA:** desarrollo asistido por IA (Claude Code)
-
-**Certificación:** AWS Certified Cloud Practitioner (2022) · **Idiomas:** inglés B2
+**Certificación:** AWS Certified Cloud Practitioner (2022)  
+**Idiomas:** inglés B2
 
 ### Contacto
 

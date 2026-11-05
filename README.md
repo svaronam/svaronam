@@ -18,6 +18,10 @@ En mi tiempo libre monto y mantengo un pequeño **homelab con dos Raspberry Pi**
 
 **Backend:** Java, Spring Boot, Spring Batch, Hibernate/JPA, Python · **Bases de datos:** Oracle, PostgreSQL, MySQL, IBM DB2, SQLite · **DevOps:** Docker, Jenkins, Git, Linux, GitHub Actions · **Arquitectura:** hexagonal, DDD, microservicios · **Móvil:** Android (Kotlin, Java)
 
+**IA:** desarrollo asistido por IA (Claude Code)
+
+**Certificación:** AWS Certified Cloud Practitioner (2022) · **Idiomas:** inglés B2
+
 ### Contacto
 
-[LinkedIn](https://linkedin.com/in/sergio-varona-madrid)
+[LinkedIn](https://linkedin.com/in/sergio-varona-madrid) · [svaronamadrid@outlook.com](mailto:svaronamadrid@outlook.com)
